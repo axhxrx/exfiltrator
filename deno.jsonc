@@ -1,0 +1,6 @@
+{
+  "name": "@axhxrx/exfiltrator",
+  "version": "0.0.1",
+  "exports": "./mod.ts",
+  "license": "MIT",
+}
