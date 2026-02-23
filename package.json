@@ -1,0 +1,14 @@
+{
+  "name": "@axhxrx/exfiltrator",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./mod.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
